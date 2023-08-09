@@ -1,5 +1,5 @@
 {
    "type": "esp32Presion",
-   "version": "1.3",
+   "version": "1.2",
    "url": "https://raw.githubusercontent.com/Proyectossole/IoT-presion/main/fw.bin"
 }
