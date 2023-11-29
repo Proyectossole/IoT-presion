@@ -1,5 +1,5 @@
 {
-   "type": "esp32Presion",
-   "version": "1.3",
+   "type": "esp32PresionExp",
+   "version": "1.4",
    "url": "https://raw.githubusercontent.com/Proyectossole/IoT-presion/main/IoT_presionExp.ino.bin"
 }
