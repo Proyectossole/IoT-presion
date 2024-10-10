@@ -1,5 +1,12 @@
-{
+[
+   {
    "type": "esp32PresionExpV3",
    "version": "1.2",
    "url": "https://raw.githubusercontent.com/Proyectossole/IoT-presion/main/IoT_presionExpV3.ino.bin"
-}
+   },
+   {
+   "type":"esp32PresionExpV3.1",
+   "version":"1.0",
+   "url": "https://raw.githubusercontent.com/Proyectossole/IoT-presion/main/IoT_presionExpV3.1.ino.bin"
+   }
+]
