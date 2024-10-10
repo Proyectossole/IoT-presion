@@ -1,8 +1,8 @@
 {
-    "VersionConfig": 0,
+    "VersionConfig": 1,
     "Placa": "nuevo-65",
     "AP": 0.0,
-    "TiempOn": 4,
+    "TiempOn": 2,
     "TiempOff": 1200,
-    "TiempOffQ": 120
+    "TiempOffQ": 20
 }
