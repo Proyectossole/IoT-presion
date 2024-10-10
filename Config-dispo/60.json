@@ -3,6 +3,5 @@
     "Placa": "nuevo-60",
     "AP": -0.4,
     "TiempOn": 4,
-    "TiempOff": 1200,
-    "TiempOffQ": 120
+    "TiempOff": 1200
 }
