@@ -1,6 +1,7 @@
 {
-    "VersionConfig": 0,
-    "Placa": "nuevo-58",
+    "VersionConfig": 1,
+    "Placa": "1053773-64",
+    "IdP": "ec8754b4-5b8b-4cdb-a809-84a7972f5229",
     "AP": -0.3,
     "TiempOn": 4,
     "TiempOff": 1200
